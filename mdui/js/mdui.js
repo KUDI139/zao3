@@ -1,9 +1,4 @@
-/*!
- * mdui v0.4.3 (https://mdui.org)
- * Copyright 2016-2019 zdhxiong
- * Licensed under MIT
- */
-/* jshint ignore:start */
+
 ;(function(global, factory) {
   typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
   typeof define === 'function' && define.amd ? define(factory) :

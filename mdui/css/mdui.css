@@ -1,17 +1,4 @@
-/*!
- * mdui v0.4.3 (https://mdui.org)
- * Copyright 2016-2019 zdhxiong
- * Licensed under MIT
- */
-/**
- * =============================================================================
- * ************   Color 颜色   ************
- * =============================================================================
- */
-/**
- * .mdui-theme-primary-[color] .mdui-color-theme
- * .mdui-theme-primary-[color] .mdui-color-theme-[degree]
- */
+
 .mdui-theme-primary-amber .mdui-color-theme {
   color: rgba(0, 0, 0, .87) !important;
   background-color: #ffc107 !important;
